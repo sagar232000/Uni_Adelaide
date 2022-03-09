@@ -1,0 +1,16 @@
+//You are given an array of sorted integers a of size n, and a number x. Find x in the array.
+
+using namespace std
+
+Void findA(int arr[],int x);
+ Int n = sizeof(arr)
+Int count=0;
+
+For (int I=0 ;I<n;i++){
+if(x=arr[I]){
+ int count++
+}
+
+}
+
+}

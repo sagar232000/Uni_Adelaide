@@ -1,0 +1,5 @@
+Q1. To know what was the reason of commit.
+Q2. Reason explained well so that its easy to understand.
+Q3. Every significant step that you take.
+Q4. True.
+
