@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sagar",
+    "password": "Auto@13579!@#",
+    "database": "TASKDATA",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "sagar",
+    "password": "Auto@13579!@#",
+    "database": "TASKDATA;",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "sagar",
+    "password": "Auto@13579!@#",
+    "database": "TASKDATA;",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
